@@ -52,5 +52,3 @@ def fahrenheit_to_celsius(fahrenheit)
   converted_value = (fahrenheit - 32.0)*(5.0/9.0)
   return converted_value.round(2)
 end
-
-p volume_of_sphere(3)
